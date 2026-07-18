@@ -2,6 +2,8 @@
 ## 1.1.1
 ### Removed
 - Removed The One Probe integrations. These have been moved into [Thaumic Information](https://www.curseforge.com/minecraft/mc-mods/thaumic-information).
+### Fixed
+- Fixed all caster's gauntlets added by Congrega Mystica being unable to select blocks for Focus Effect: Exchange
 
 ---
 
