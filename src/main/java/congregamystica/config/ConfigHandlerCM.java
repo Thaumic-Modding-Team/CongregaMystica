@@ -35,8 +35,6 @@ public class ConfigHandlerCM {
     public static RusticCategory rustic = new RusticCategory();
     @Config.Name("Thaumic Wonders")
     public static ThaumicWondersCategory thaumic_wonders = new ThaumicWondersCategory();
-    @Config.Name("The One Probe")
-    public static TheOneProbeCategory the_one_probe = new TheOneProbeCategory();
 
     public static class BloodMagicCategory {
         @Config.Name("Bloody Scrivener's Tools")
@@ -422,28 +420,6 @@ public class ConfigHandlerCM {
                         "You can override the default name by adding the cluster's translation key to a language file."
                 })
         public String[] additionalClusters = new String[]{};
-    }
-
-    public static class TheOneProbeCategory {
-        @Config.RequiresMcRestart
-        @Config.Name("Brain in a Jar")
-        @Config.Comment("Enables Brain in a Jar The One Probe progress info.")
-        public boolean brainJar = true;
-
-        @Config.RequiresMcRestart
-        @Config.Name("Vis Battery")
-        @Config.Comment("Enables Vis Battery The One Probe storage info.")
-        public boolean visBattery = true;
-
-        @Config.RequiresMcRestart
-        @Config.Name("Vis Generator")
-        @Config.Comment("Enables Vis Generator The One Probe rf storage info.")
-        public boolean visGenerator = true;
-
-        @Config.RequiresMcRestart
-        @Config.Name("Void Siphon")
-        @Config.Comment("Enables Void Siphon The One Probe progress info.")
-        public boolean voidSiphon = true;
     }
 
     @Mod.EventBusSubscriber(modid = CongregaMystica.MOD_ID)

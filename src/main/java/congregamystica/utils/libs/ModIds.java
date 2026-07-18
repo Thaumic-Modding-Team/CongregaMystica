@@ -49,8 +49,8 @@ public enum ModIds {
     }
 
     public static class ConstIds {
-        public static final String ars_magica = "arsmagica2";
         public static final String applied_energistics = "appliedenergistics2";
+        public static final String ars_magica = "arsmagica2";
         public static final String blood_magic = "bloodmagic";
         public static final String botania = "botania";
         public static final String crafttweaker = "crafttweaker";

@@ -12,7 +12,6 @@ import congregamystica.integrations.immersiveintelligence.ImmersiveIntelligenceC
 import congregamystica.integrations.naturesaura.NaturesAuraCM;
 import congregamystica.integrations.rustic.RusticCM;
 import congregamystica.integrations.thaumicwonders.ThaumicWondersCM;
-import congregamystica.integrations.theoneprobe.TheOneProbeCM;
 import congregamystica.utils.libs.ModIds;
 
 import java.util.ArrayList;
@@ -54,9 +53,6 @@ public class ModuleManager {
         }
         if(ModIds.thaumic_wonders.isLoaded) {
             MOD_MODULES.add(new ThaumicWondersCM());
-        }
-        if(ModIds.the_one_probe.isLoaded) {
-            MOD_MODULES.add(new TheOneProbeCM());
         }
 
     }

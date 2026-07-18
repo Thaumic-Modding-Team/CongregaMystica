@@ -1,4 +1,10 @@
 # Changelog Congrega Mystica
+## 1.1.1
+### Removed
+- Removed The One Probe integrations. These have been moved into [Thaumic Information](https://www.curseforge.com/minecraft/mc-mods/thaumic-information).
+
+---
+
 ## 1.1.0
 ### Added
 - Added Arcane Crafter, a pattern crafter used to automate Arcane Workbench recipes

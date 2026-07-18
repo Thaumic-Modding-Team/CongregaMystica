@@ -69,11 +69,6 @@ The content listed here does not require mod integration.
   - **Herb - Viscap:** Farmable Vishroom herb. Can be used to make Viscous Brew.
 - **Thaumic Wonders Unofficial**
   - **Eldritch Clusters:** All configured Native Clusters will have Eldritch variants created
-- **The One Probe**
-  - **Brain Jar:** Displays the amount of experience stored in the Brain Jar
-  - **Vis Battery:** Displays the amount of Vis stored in the Vis Battery
-  - **Vis Generator:** Displays the amount of RF stored in the Vis Generator
-  - **Void Siphon:** Displays the current Void Seed creation progress of the Void Siphon
 
 ## **Superseded Addons**
 - **[Engineered Golems](https://www.curseforge.com/minecraft/mc-mods/engineered-golems)**
