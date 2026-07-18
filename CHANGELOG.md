@@ -7,6 +7,12 @@
 
 ---
 
+## 1.1.1
+### Fixed
+- Fixed the Arcane Crafter causing a crash in certain instances, such as with Buildcraft pipes
+
+---
+
 ## 1.1.0
 ### Added
 - Added Arcane Crafter, a pattern crafter used to automate Arcane Workbench recipes
