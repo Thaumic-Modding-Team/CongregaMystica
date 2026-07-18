@@ -1,5 +1,5 @@
 # Changelog Congrega Mystica
-## 1.1.1
+## 1.1.2
 ### Fixed
 - Fixed all caster's gauntlets added by Congrega Mystica being unable to select blocks for Focus Effect: Exchange
 ### Removed
