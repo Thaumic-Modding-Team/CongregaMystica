@@ -1,0 +1,351 @@
+itemGroup.CongregaMysticaTab=Congrega Mystica
+
+# Blocks
+tile.botania:flower.primagalium.name=Примагалиум
+tile.botania:flower.primagalium.reference=Камневед
+tile.botania:flower.primal_bloom.name=Первородный цвет
+tile.botania:flower.primal_bloom.reference=Кристальное животноводство
+tile.botania:flower.taintthistle.name=Порчеполох
+tile.botania:flower.taintthistle.reference=Мистер Мускул
+tile.botania:flower.whisperweed_cm.name=Шепчущий сорняк
+tile.botania:flower.whisperweed_cm.reference=Косвенный каннибализм
+tile.congregamystica:arcane_crafter.name=Мистический сборщик
+tile.congregamystica:candle_brass.name=Латунная свеча
+tile.congregamystica:candle_double_brass.name=Латунный канделябр
+tile.congregamystica:candle_lever_brass.name=Латунный свечной рычаг
+tile.congregamystica:chain_brass.name=Латунная цепь
+tile.congregamystica:chair_greatwood.name=Стул из великого дерева
+tile.congregamystica:chair_silverwood.name=Стул из серебряного дерева
+tile.congregamystica:chandelier_brass.name=Латунный обруч для люстры
+tile.congregamystica:cindermote.name=Тлеющая искорка
+tile.congregamystica:fence_greatwood.name=Забор из великого дерева
+tile.congregamystica:fence_silverwood.name=Забор из серебряного дерева
+tile.congregamystica:fence_gate_greatwood.name=Калитка из великого дерева
+tile.congregamystica:fence_gate_silverwood.name=Калитка из серебряного дерева
+tile.congregamystica:lantern_brass.name=Латунный фонарь
+tile.congregamystica:shimmerdew_bulb.name=Бутон мерцающего лепестка
+tile.congregamystica:table_greatwood.name=Стол из великого дерева
+tile.congregamystica:table_silverwood.name=Стол из серебряного дерева
+tile.congregamystica:viscap.name=Висовичок
+
+# Chat
+chat.congregamystica:arcane_crafter.bind_player=Этот сборщик теперь привязан к %s.
+
+# Fluids
+fluid.cinderfirewhiskey=Виски из огненного пепла
+fluid.cinderfirewort=Сусло из огненного пепла
+fluid.shimmerdewspirits=Настойка из мерцающей росы
+fluid.shimmerdewwort=Сусло из мерцающей росы
+fluid.viscousbrew=Вязкое варево
+fluid.viscouswort=Вязкое сусло
+tile.congregamystica:cinderfire_wort.name=Сусло из огненного пепла
+tile.congregamystica:cinderfire_whiskey.name=Виски из огненного пепла
+tile.congregamystica:shimmerdew_wort.name=Сусло из мерцающей росы
+tile.congregamystica:shimmerdew_spirits.name=Настойка из мерцающей росы
+tile.congregamystica:viscous_wort.name=Вязкое сусло
+tile.congregamystica:viscous_brew.name=Вязкое варево
+
+# Items
+item.bloodmagic.orb.bloodmagic:eldritch.name=Древний кровавый шар
+item.congregamystica:blood_scribing_tools.name=Окровавленные письменные принадлежности
+item.congregamystica:ethereal_rapier.name=Эфирная рапира
+item.congregamystica:caster_aura.name=Перчатка заклинателя-ботаника
+item.congregamystica:caster_bound.name=Связанная перчатка заклинателя
+item.congregamystica:caster_clockwork.name=Заводная перчатка заклинателя
+item.congregamystica:caster_elementium.name=Элементиевая перчатка заклинателя
+item.congregamystica:caster_flux.name=Заряженная перчатка заклинателя
+item.congregamystica:cluster_astral_starmetal.name=Самородный кластер звездного металла
+item.congregamystica:cluster_charged_quartz_certus.name=Самородный кластер заряженного истинного кварца
+item.congregamystica:cluster_quartz_certus.name=Самородный кластер истинного кварца
+item.congregamystica:crafter_placeholder.name=Заполнитель сборщика
+item.congregamystica:drill_head_thaumium.name=Таумиевая головка бура
+item.congregamystica:drill_head_void.name=Пустотная головка бура
+item.congregamystica:drill_head_tipped_thaumium.name=Таумиевая головка бура с алмазным наконечником
+item.congregamystica:drill_head_tipped_void.name=Пустотная головка бура с алмазным наконечником
+item.congregamystica:eldritch_cluster_astral_starmetal.name=Древний кластер звездного металла
+item.congregamystica:eldritch_cluster_charged_quartz_certus.name=Древний кластер заряженного истинного кварца
+item.congregamystica:eldritch_cluster_quartz_certus.name=Древний кластер истинного кварца
+item.congregamystica:flux_scribing_tools.name=Заряженные письменные принадлежности
+item.congregamystica:goggled_thaumium_helmet.name=Таумиевый шлем откровения
+item.congregamystica:mimic_fork.name=Камертон-имитатор
+item.congregamystica:mimic_fork_ranged.name=Эфирный камертон-имитатор
+item.congregamystica:upgrade_refining.name=Модуль экстракции самородных кластеров
+
+# Golems
+golem.material.cm_biomass=Биомасса
+golem.material.text.cm_biomass=Этот голем заражен биомассой. Со временем он медленно восстанавливает здоровье и щит.
+
+golem.material.cm_ironwood=Железное дерево
+golem.material.text.cm_ironwood=Этот голем сделан из железного дерева. Он легкий и подвижный, прочнее голема из великого дерева, но уступает железному. Обладает устойчивостью к взрывам.
+
+golem.material.cm_livingmetal=Живой металл
+golem.material.text.cm_livingmetal=Этот голем сделан из живого металла. Он полностью восстанавливает свое здоровье после убийства врага.
+
+golem.material.cm_steel=Сталь
+golem.material.text.cm_steel=Этот голем сделан из стали. Он тяжелый и неповоротливый, но прочнее большинства материалов. Огнеупорен и устойчив к взрывам.
+
+golem.material.cm_treated_wood=Обработанная древесина
+golem.material.text.cm_treated_wood=Этот голем сделан из обработанной древесины. Он хорошо смазан, что позволяет ему с легкостью выполнять сложные задачи.
+
+# Tooltips
+mimic_fork.instrument=Инструмент: %s
+mimic_fork.instrument.piano=Пианино
+mimic_fork.instrument.bassdrum=Большой барабан
+mimic_fork.instrument.snare=Малый барабан
+mimic_fork.instrument.clicks=Щелчки
+mimic_fork.instrument.bassguitar=Бас-гитара
+mimic_fork.instrument.flute=Флейта
+mimic_fork.instrument.bell=Колокол
+mimic_fork.instrument.guitar=Гитара
+mimic_fork.instrument.chime=Звоночки
+mimic_fork.instrument.xylophone=Ксилофон
+mimic_fork.note=Нота: %s
+tooltip.congregamystica:caster_aura.cost=§6Расход Ауры:§r %d Ауры за заклинание
+tooltip.congregamystica:caster_bound.cost=§cРасход LP:§r %d LP за заклинание
+tooltip.congregamystica:caster_clockwork.cost=§eРасход Эмбера:§s %s Эмбера за заклинание
+tooltip.congregamystica:caster_elementium.cost=§9Расход Маны:§r %d Маны за заклинание
+tooltip.congregamystica:caster_flux.cost=§7Расход RF:§r %d RF за заклинание
+tooltip.congregamystica:mimic_fork.dimension=Измерение: %s
+tooltip.congregamystica:mimic_fork.position=Поз: x=%d, y=%d, z=%d
+tooltip.congregamystica:refining.info=Дает буру шанс извлекать самородные кластеры из добытой руды; суммируется до %d
+tooltip.congregamystica:rf.info=Запас энергии: %d/%d RF
+
+# Research
+tc.research_category.CONGREGA_MYSTICA=Congrega Mystica
+congregamystica.research.congrega_mystica_base.title=Congrega Mystica
+#congregamystica.research.congrega_mystica_base.title.subtitle=
+congregamystica.research.congrega_mystica_base.stage.1=В ходе своих исследований я начал понимать, что лишь приоткрыл завесу тайны. <BR>Я обратил внимание на объединение Тауматургии с другими дисциплинами, надеясь совершить неожиданный прорыв.
+
+# -- EXPANDED STUDIES: BLOOD MAGIC
+congregamystica.research.blood_magic.title=Расширенные исследования: Кровавая алхимия
+#congregamystica.research.blood_magic.title.subtitle=
+congregamystica.research.blood_magic.stage.1=Магия крови предлагает собственные методы алхимии и насыщения, основанные на крови и душах существ.<BR>Теперь я могу объединить свои знания Тауматургии и Кровавой алхимии.
+
+# -- EXPANDED STUDIES: BOTANIA
+congregamystica.research.botania.title=Расширенные исследования: Ботаника
+#congregamystica.research.botania.title.subtitle=
+congregamystica.research.botania.stage.1=Ботаника — это изучение магических растений и цветов. У этой практики также есть собственный источник энергии, известный как Мана.<BR>Теперь я могу объединить свои исследования Тауматургии со знаниями Ботаники.
+
+# -- EXPANDED STUDIES: GOLEMANCY
+congregamystica.research.expanded_golemancy.title=Расширенные исследования: Големоведение
+congregamystica.research.expanded_golemancy.title.subtitle=Големов мне, и моего сыну тоже!
+congregamystica.research.expanded_golemancy.stage.1=Расширив свои изыскания в смежные сферы, я смог открыть новые материалы и снаряжение для создания собственных големов.
+
+# -- EXPANDED STUDIES: IMMERSIVE ENGINEERING
+congregamystica.research.immersiveengineering.title=Расширенные исследования: Инженерия
+#congregamystica.research.immersiveengineering.title.subtitle=
+congregamystica.research.immersiveengineering.stage.1=Суть инженерии довольно очевидна. Теперь я могу объединить исследования Тауматургии с познаниями в области механизмов на энергии.
+
+# -- EXPANDED STUDIES: RUSTIC
+congregamystica.research.rustic.title=Расширенные исследования: Пивоварение
+#congregamystica.research.rustic.title.subtitle=
+congregamystica.research.rustic.stage.1=Я уже умею использовать пивоваренную бочку для приготовления полезных напитков с самыми разными вкусами. Пора выяснить, какое варево можно получить из недавно найденных магических растений.
+
+# RESEARCH CATEGORIES
+congregamystica.research.caster_augmentation.addenda.1=Помимо уменьшенного расхода Вис, эта перчатка способна принимать улучшения, аналогичные более продвинутым моделям.
+
+# -- ARCANE CRAFTER
+congregamystica.research.arcane_crafter.title=Мистический сборщик
+#congregamystica.research.arcane_crafter.subtitle=
+congregamystica.research.arcane_crafter.stage.1=Необходимость постоянно вручную создавать мелкие магические компоненты начинает мешать моим исследованиям. Големы плохо подходят для этой задачи, так как сами рецепты требуют проводника для направления энергии Вис в верстак.<BR>Возможно, мой прошлый опыт работы с шаблонным сборщиком поможет создать похожее устройство.
+congregamystica.research.arcane_crafter.stage.2=Это новое устройство, названное Мистическим сборщиком, способно автоматизировать магические крафты.<BR>Для его работы требуется загрузка необходимых ингредиентов в строгом порядке, соответствующем рецепту.<BR>Сначала необходимо вставить все требуемые кристаллы первичных аспектов. Порядок и количество этих кристаллов не важны, пока их достаточно для рецепта. Лишние кристаллы будут выброшены из сборщика по завершении работы.<BR>После загрузки кристаллов аспектов нужно вставить Заполнитель сборщика. После этого поступающие предметы начнут заполнять ячейки рецепта.<BR>Предметы заполняют сетку слева направо и сверху вниз. Пустые ячейки можно обозначить с помощью Заполнителей сборщика.<BR>Текущую сетку крафта можно увидеть, если навестись на мистический сборщик, держа в руке перчатку заклинателя.<BR>Когда сетка заполнится, машина попытается выполнить крафт. Если подходящий рецепт не найден, все находящиеся внутри предметы будут выброшены.<BR>Готовая продукция помещается в инвентарь под сборщиком, либо выпадает в мир, если снизу ничего нет.
+congregamystica.research.arcane_crafter.addenda.1=Наведясь на мистический сборщик с перчаткой заклинателя в руке, я смогу увидеть его содержимое.<BR>Если устройство заклинит или потребуется очистить его инвентарь, я могу принудительно выбить предметы с помощью перчатки заклинателя.
+congregamystica.research.arcane_crafter.addenda.2=Сборщик связывается с одним игроком и может создавать только те предметы, рецепты которых известны этому человеку.<BR>Я могу сменить привязанного игрока, взаимодействуя с мистическим сборщиком перчаткой заклинателя, удерживая клавишу SHIFT.
+
+# -- BLOODY SCRIVENER'S TOOLS
+congregamystica.research.blood_scribing_tools.title=Окровавленные письменные принадлежности
+congregamystica.research.blood_scribing_tools.title.subtitle="Я завершу это исследование, даже если оно меня убьет!"
+congregamystica.research.blood_scribing_tools.stage.1=Насытив обычные письменные принадлежности на Кровавом алтаре, я создал комплект, который восполняет чернила, вытягивая LP из моей кровавой сети.<BR>Нужно обязательно привязать инструменты перед использованием, так как они гораздо хрупче обычных.
+
+# -- BREWING: CINDERFIRE WHISKEY
+congregamystica.research.cinderfire_whiskey.title=Виски из огненного пепла
+#congregamystica.research.cinderfire_whiskey.title.subtitle=
+congregamystica.research.cinderfire_whiskey.stage.1=Виски из огненного пепла, сваренный из сусла тлеющей жемчущины, имеет яркий пряный вкус и довольно обжигающее послевкусие. Питье этого напитка согревает тело, как обычный алкоголь, но, в отличие от него, согревает и саму душу!<BR>Стоит внимательно следить за качеством напитка, ведь неизвестно, что может произойти, если душа перегреется.
+congregamystica.research.cinderfire_whiskey.addenda.1=Я придумал способ наполнить тлеющую жемчужину магией, чтобы её можно было выращивать как обычную траву.<BR>Хотя эта трава значительно уступает по силе оригиналу, её более чем достаточно для производства алкоголя.
+
+# -- BREWING: SHIMMERDEW SPIRITS
+congregamystica.research.shimmerdew_spirits.title=Настойка из мерцающей росы
+#congregamystica.research.shimmerdew_spirits.title.subtitle=
+congregamystica.research.shimmerdew_spirits.stage.1=Настойка из мерцающей росы, сваренная из сусла мерцающего листа, имеет мягкий, утонченный и почти сладковатый вкус. Содержание алкоголя ощутимое, но практически не заметно на вкус.<BR>Следует быть осторожным при варке: несмотря на свойства успокаивать разум, плохая партия может вызвать сильное недомогание. Сдрогнуть тяжело при мысли о симптомах отравлении магической ртутью.
+congregamystica.research.shimmerdew_spirits.addenda.1=Я придумал способ наполнить мерцающий лист магией, чтобы его можно было выращивать как обычную траву.<BR>Хотя эта трава значительно уступает по силе оригиналу, её более чем достаточно для производства алкоголя.
+
+# -- BREWING: VISCOUS BREW
+congregamystica.research.viscous_brew.title=Вязкое варево
+#congregamystica.research.viscous_brew.title.subtitle=
+congregamystica.research.viscous_brew.stage.1=Вязкое варево, сваренное из сусла висомора, обладает насыщенным землистым вкусом!<BR>Хотя многим этот напиток может показаться неприятным на вкус, употребление выдержанного напитка высокого качества действует как панацея, очищая разум и тело. Более того, эта жидкость способна даже прогонять иллюзорных врагов.<BR>К приготовлению этого напитка стоит относиться с осторожностью: алкоголь плохого качества может сильно навредить разуму.
+congregamystica.research.viscous_brew.addenda.1=Я придумал способ наполнить висомор магией, чтобы его можно было выращивать как обычную траву.<BR>Хотя эта трава значительно уступает по силе оригиналу, её более чем достаточно для производства алкоголя.
+
+# -- CASTER: BOTANIST
+congregamystica.research.caster_aura.title=Перчатка заклинателя-ботаника
+congregamystica.research.caster_aura.title.subtitle=Без ГМО
+congregamystica.research.caster_aura.stage.1=Хотя природная аура и вис похожи, эти явления по-разному взаимодействуют с живыми существами.<BR>Если высокий уровень вис приводит к мутациям у растений и животных, то высокий уровень природной ауры ускоряет рост и повышает плодовитость.<BR>Несмотря на различие, я верю, что смогу найти способ сопрячь их вместе.
+congregamystica.research.caster_aura.stage.2=Эксперименты показали, как встроить батарею ауры в перчатку, позволяя усиливать заклинания с помощью природной ауры.<BR>Не имея возможности накапливать ауру внутри себя, батарея выступает в роли проводника к линзе, снижая требуемое количество вис.<BR>И хотя конвертация далеко не идеальна, она отлично помогает снизить вред для местной ауры.
+
+# -- CASTER: BOUND
+congregamystica.research.caster_bound.title=Связанная перчатка заклинателя
+congregamystica.research.caster_bound.title.subtitle="Распишитесь на пунктире."
+congregamystica.research.caster_bound.stage.1=Мои эксперименты доказали, что силу моей кровавой сети можно использовать для выполнения бытовых задач.<BR>Осталось лишь найти способ дополнить управление Вис с помощью LP.
+congregamystica.research.caster_bound.stage.2=Привязав перчатку к себе, я смог создать устройство, способное вытягивать LP напрямую из моей кровавой сети.<BR>Энергия LP проходит через фокус заклинания, снижая требуемое количество вис.<BR>И хотя конвертация далеко не идеальна, она отлично помогает снизить вред для местной ауры.
+
+# -- CASTER: CLOCKWORK
+congregamystica.research.caster_clockwork.title=Заводная перчатка заклинателя
+congregamystica.research.caster_clockwork.title.subtitle=Как по часам
+congregamystica.research.caster_clockwork.stage.1=Первозданная мощь и тепло недр давно используются гномами, живущими глубоко под землей.<BR>Особенно интересны заводные инструменты, работающие на этом ресурсе — Эмбере. Возможно, я смогу утилизировать этот управляемый жар...
+congregamystica.research.caster_clockwork.stage.2=Мне удалось встроить сосуд недр в перчатку, позволив ей подпитывать заклинания с помощью Эмбера.<BR>Не имея возможности хранить Эмбер внутри перчатки, сосуд служит каналом, подающим тепло прямо в линзу и снижающим затраты вис.
+
+# -- CASTER: ELEMENTIUM
+congregamystica.research.caster_elementium.title=Элементиевая перчатка заклинателя
+congregamystica.research.caster_elementium.title.subtitle=Тайна Маны
+congregamystica.research.caster_elementium.stage.1=Хотя мана имеет более физическую форму, чем многие привычные мне вещества, она обладает удивительным сходством с чистой эссенцией.<BR>Если я найду связующее звено между ними, это откроет фундаментально новые направления исследований.
+congregamystica.research.caster_elementium.stage.2=Используя материалы Альфхейма, я смог объединить планшет маны с перчаткой, позволив ей усиливать заклинания Маной.<BR>Не способный хранить Ману внутри перчатки, планшет выступает в роли проводника, подающего пану в линзу и уменьшающего расход вис.<BR>И хотя конвертация далеко не идеальна, она отлично помогает снизить вред для местной ауры.
+
+# -- CASTER: REDSTONE FLUX
+congregamystica.research.caster_flux.title=Заряженная перчатка заклинателя
+#congregamystica.research.caster_flux.title.subtitle=
+congregamystica.research.caster_flux.stage.1=Исследования доказали возможность превращения вис в обычную энергию, но мне интересно: возможен ли обратный процесс?<BR>Здравый смысл подсказывает, что это невозможно, но когда это меня останавливало?
+congregamystica.research.caster_flux.stage.2=Несмотря на крайне низкий КПД, исследования показали, как обычная энергия может накачивать небольшие объемы вис, делая их сильной привычного.<BR>Кто бы мог подумать, что решение окажется простым — достаточно было подключить вис-генератор обратным ходом...
+
+# -- DRILL HEAD THAUMIUM
+congregamystica.research.drill_head_thaumium.title=Таумиевая головка бура
+#congregamystica.research.drill_head_thaumium.title.subtitle=
+congregamystica.research.drill_head_thaumium.stage.1=Таумиевая головка бура копает область 3x3x1 и уступает по прочности стальной, но компенсирует это повышенной скоростью добычи.
+
+# -- DRILL HEAD TIPPED THAUMIUM
+congregamystica.research.drill_head_tipped_thaumium.title=Таумиевая головка бура с алмазным наконечником
+#congregamystica.research.drill_head_tipped_thaumium.title.subtitle=
+congregamystica.research.drill_head_tipped_thaumium.stage.1=Я могу улучшить таумиевую головку бура с помощью дополнительного таумиума и алмазов. Эта улучшенная головка копает область 4x4x1 и имеет более высокие характеристики.
+
+# -- DRILL HEAD TIPPED VOID
+congregamystica.research.drill_head_tipped_void.title=Пустотная головка бура с алмазным наконечником
+#congregamystica.research.drill_head_tipped_void.title.subtitle=
+congregamystica.research.drill_head_tipped_void.stage.1=Я могу улучшить пустотную головку бура с помощью дополнительного металла пустоты и алмазов. Улучшенная головка копает быстрее и имеет более высокие характеристики.
+
+# -- DRILL HEAD VOID
+congregamystica.research.drill_head_void.title=Пустотная головка бура
+#congregamystica.research.drill_head_void.title.subtitle=
+congregamystica.research.drill_head_void.stage.1=Пустотная головка бура копает область 5x5x1 и работает медленнее остальных из-за своего большого веса.<BR>Она способна восстанавливаться при повреждении, что делает её невероятно мощным выбором для моего бура.
+
+# -- DRILL UPGRADE: REFINING
+congregamystica.research.upgrade_refining.title=Улучшение бура: Обогащение
+#congregamystica.research.upgrade_refining.title.subtitle=
+congregamystica.research.upgrade_refining.stage.1=Зачарования наполенния оказались крайне полезны для моих кирок, но буровая установка далека от точности ручного инструмента.<BR>Возможно, есть способ наделить её головку этой способностью?
+congregamystica.research.upgrade_refining.stage.2=Мне удалось создать набор наполненных магией головок, способных очищать руду прямо во время бурения.<BR>Установка этих модулей экстракции самородных кластеров на мой бур позволяет ему работать аналогично кирке с чарами Обогащения.<BR>Хоть это и менее эффективно, чем работа киркой, несколько улучшений можно объединять, слегка увеличивая шанс получить самородные кластеры.
+
+# -- ELDRITCH BLOOD ORB
+congregamystica.research.eldritch_blood_orb.title=Древний кровавый шар
+congregamystica.research.eldritch_blood_orb.title.subtitle=Хранение крови в неизведанном
+congregamystica.research.eldritch_blood_orb.stage.1=Направление энергии кровавого алтаря в первородную жемчужину создало новый могущественный кровавый шар.<BR>Древний кровавый шар подключается к силе измерения за гранью моего понимания, значительно увеличивая емкость моей сети.
+
+# -- ENERGIZED SCRIBING TOOLS
+congregamystica.research.flux_scribing_tools.title=Заряженные письменные принадлежности
+#congregamystica.research.flux_scribing_tools.title.subtitle=
+congregamystica.research.flux_scribing_tools.stage.1=Мне следует применить технологии к письменным принадлежностям, чтобы они могли принимать обычные источники энергии. Дополнительный источник чернил очень пригодится в исследованиях.
+congregamystica.research.flux_scribing_tools.stage.2=Я модифицировал обычные принадлежности простым механизмом и инкрустацией из редстоуна, создав инструменты, работающие от обычной энергии. Можно использовать Вис-генератор для получения FE/RF, если я захочу питать их от вис.
+
+# -- ETHEREAL RAPIER
+congregamystica.research.ethereal_rapier.title=Эфирная рапира
+congregamystica.research.ethereal_rapier.stage.1=Мои эксперименты с кровавой алхимией выявили странный резонанс между эссенцией жизни и вис в ауре.<BR>Хотя эти энергии разнятся по своей природе (одна базируется на разумной жизни, другая — на природном балансе), их принудительное слияние делает любой предмет полуэфирным при контакте.<BR>Материал получает способность проходить сквозь физические объекты, но остается плотным при соприкосновении с живыми и мертвыми тканями.
+congregamystica.research.ethereal_rapier.stage.2=Проклятие для всего живого, Эфирная рапира соединяет эссенцию жизни с чистой энергией ауры, делая клинок практически призрачным.<BR>Удары заряженным клинком игнорируют броню и наносят двойной урон существам, защищенным щитами.
+
+# -- FLOWER: PRIMAL FLOWERS
+congregamystica.research.primal_flowers.title=Первородные цветы
+congregamystica.research.primal_flowers.title.subtitle=Первородная ботаника
+congregamystica.research.primal_flowers.stage.1=Исследования ботаники выявили интересные взаимодействия между первичными аспектами и маной.<BR>Я открыл несколько цветов, способных использовать этот резонанс для практических целей.<PAGE>§oПримагалиум§r<DIV>Я обнаружил, что некоторые цветы могут вырабатывать ману, поглощая материалы.<BR>Рецепт легко адаптировать, создав цветок, поглощающий кристаллы первичных аспектов.<BR>Порядок поглощения кристаллов очень важен, возможно, посох леса даст больше информации.<PAGE>§oПервородный цвет§r<DIV>Как знают многие тауматурги, естественный рост кристаллов первичной вис то заполняет все поверхности вокруг, то останавливается вовсе.<BR>Первородный цвет решает проблему, насыщая кристаллы маной напрямую и помогая им расти и разрастаться значительно быстрее.
+
+# -- FLOWER: TAINTTHISTLE
+congregamystica.research.taintthistle.title=Порчеполох
+congregamystica.research.taintthistle.title.subtitle=Мистер Мускул
+congregamystica.research.taintthistle.stage.1=Несмотря на название и вид, это очень дружелюбный цветок. При поглощении маны он уничтожает близлежащие зараженные блоки и склизкие выбросы.<BR>Подробности можно узнать в Лексике Ботания.
+
+# -- FLOWER: WHISPERWEED
+congregamystica.research.whisperweed.title=Шепчущий сорняк
+congregamystica.research.whisperweed.title.subtitle=Косвенный каннибализм
+congregamystica.research.whisperweed.stage.1=Этот жутковатый цветок — плод тесного контакта ботаники и оккультизма. Он питается мозгами зомби, сохраняя крупицы знаний каждого съеденного мозга.<BR>Насытившись, он может передать мне накопленные знания при взаимодействии.<BR>Подробности можно найти в Лексике Ботания.
+
+# -- MATERIAL STUDIES: BIOMASS
+congregamystica.research.golem_mat_biomass.title=Изучение материалов: Биомасса
+congregamystica.research.golem_mat_biomass.title.subtitle=Продвинутое создание из биомассы
+congregamystica.research.golem_mat_biomass.stage.1=Биомасса — странный материал, будто живой и обладающий разумом... Со временем он регенерирует и покрывается защитным слоем затвердевшей материи.
+
+# -- MATERIAL STUDIES: IRONWOOD
+congregamystica.research.golem_mat_ironwood.title=Изучение материалов: Железное дерево
+congregamystica.research.golem_mat_ironwood.title.subtitle=Продвинутое создание из железного дерева
+congregamystica.research.golem_mat_ironwood.stage.1=Железное дерево тяжелее великого дерева, но легче железа. Оно крайне устойчиво к взрывам.
+
+# -- MATERIAL STUDIES: LIVINGMETAL
+congregamystica.research.golem_mat_livingmetal.title=Изучение материалов: Живой металл
+congregamystica.research.golem_mat_livingmetal.title.subtitle=Продвинутое создание из живого металла
+congregamystica.research.golem_mat_livingmetal.stage.1=Живой металл издает легкое гудение. Он полностью чинит голема после победы над врагом.
+
+# -- MATERIAL STUDIES: STEEL
+congregamystica.research.golem_mat_steel.title=Изучение материалов: Сталь
+congregamystica.research.golem_mat_steel.title.subtitle=Продвинутое создание из стали
+congregamystica.research.golem_mat_steel.stage.1=Сталь очень прочна, даже прочнее железа. Она обладает специфической жесткостью, похожей на таумиум.
+
+# -- MATERIAL STUDIES: TREATED WOOD
+congregamystica.research.golem_mat_treated_wood.title=Изучение материалов: Обработанная древесина
+congregamystica.research.golem_mat_treated_wood.title.subtitle=Продвинутое создание из обработанной древесины
+congregamystica.research.golem_mat_treated_wood.stage.1=Обработанная древесина качественнее обычного дерева. Из-за пропитки маслами она, однако, немного тяжелее.
+
+# -- METAL PURIFICATION: EXPANDED ELDRITCH CLUSTERS
+congregamystica.research.metal_corruption_expanded.title=Расширенные исследования: Искажение металлов
+#congregamystica.research.metal_corruption_expanded.title.subtitle=
+congregamystica.research.metal_corruption_expanded.stage.1=Новые виды самородных кластеров теперь доступны и в Древней форме. Их можно получить при переработке руд в камере катализа с установленным камнем чужеземца.
+
+# -- METAL PURIFICATION: EXPANDED NATIVE CLUSTERS
+congregamystica.research.metal_purification_expanded.title=Расширенные исследования: Очистка металлов
+#congregamystica.research.metal_purification_expanded.title.subtitle=
+congregamystica.research.metal_purification_expanded.stage.1=Ассортимент доступных самородных кластеров значительно расширился. При выплавке они дают вдвое больше слитков и могут быть очищены алхимическим путем.
+
+# -- MIMIC FORK
+congregamystica.research.mimic_fork.title=Камертон-имитатор
+#congregamystica.research.mimic_fork.title.subtitle=
+congregamystica.research.mimic_fork.stage.1=Я часто думал о музыкальных блоках. Это простые устройства, издающие одну ноту от прикосновения или сигнала редстоуна... Но какова их реальная польза?<BR>Для воспроизведения нужной ноты требуются громоздкие конструкции и сложная расстановка.<BR>Должен быть способ лучше...
+congregamystica.research.mimic_fork.stage.2=Ответом стал Камертон-имитатор!<BR>Это модифицированный камертон, способный запоминать музыкальные ноты и воспроизводить их в любой момент.<BR>С его помощью я могу удаленно активировать мистические уши легким взмахом.<BR>Тон и ноту камертона можно задать нажатием ПКМ по мистическому уху или музыкальному блоку. Чтобы изменить тон самого блока или уха, можно нажать ПКМ с зажатым Shift, удерживая настроенный камертон.
+
+# -- MIMIC FORK (ETHEREAL)
+congregamystica.research.mimic_fork_ranged.title=Эфирный камертон-имитатор
+#congregamystica.research.mimic_fork_ranged.title.subtitle=
+congregamystica.research.mimic_fork_ranged.stage.1=Хотя камертон-имитатор очень полезен, его малая дальность является серьезным ограничением.<BR>Возможно, получится применить телепортацию для передачи звука в другое место.
+congregamystica.research.mimic_fork_ranged.stage.2=Эксперимент прошел успешно. Эфирный камертон-имитатор способен проигрывать ноту в указанной точке, а не рядом со мной.<BR>Помимо стандартных функций, нажатие ПКМ + Shift по блоку привязывает камертон к координатам. С этого момента активация камертона будет издавать звук в привязанной точке.<BR>Сбросить или сменить точку можно повторным ПКМ + Shift по новому блоку или по воздуху.
+
+
+# Research Misc
+research.f_CM_BIOMASS.text=Изучить колонию биомассы...
+research.f_CM_IRONWOOD.text=Изучить железное дерево
+research.f_CM_LIVINGMETAL.text=Изучить живой металл
+research.f_CM_STEEL.text=Изучить сталь
+research.f_CM_TREATED_WOOD.text=Изучить обработанную древесину
+
+# Blood Magic
+# -- RITUAL OF DELAYED INSANITY
+ritual.congregamystica.delayed_insanity=Ритуал отложенного безумия
+ritual.congregamystica.delayed_insanity.info=Накладывает эффект «Защищённый от Искажения» на игроков в радиусе действия.
+ritual.congregamystica.delayed_insanity.ward.info=(Оберег) Игроки в этой зоне получат эффект оберега от искажения.
+
+# Botania
+# -- PRIMAGALIUM
+botania.entry.primagalium=Примагалиум
+botania.tagline.primagalium=Мана из кристаллов вис
+botania.page.primagalium0=&1Примагалиум&0 — цветок, который особенно "любит" кристаллы первичной вис. Он поглощает любые &1кристаллы вис&0, брошенные рядом, и создает из них ману.<br>Но есть подвох. Цветок привередлив к аспектам. Начиная с Terra, после поглощения одного &1кристалла вис&0 он переключается на следующий Первичный Аспект.
+botania.page.primagalium1=Хотя он съест все &1кристаллы вис&0 вокруг, мана создастся только если аспект кристалла совпадает с желаемым. Беспорядочно бросать кристаллы в цветок — неэффективно.<br>Узнать желаемый аспект можно, наведя на цветок &1Посох леса&0.
+botania.page.primagalium2=&oПервородный каменный суп&r
+
+# -- PRIMAL BLOOM
+botania.entry.primal_bloom=Первородный цвет
+botania.tagline.primal_bloom=Ускоряет рост первичных кристаллов
+botania.page.primal_bloom0=Ужасно медленный рост кристаллов вис может расстроить начинающего тауматурга. &1Первородный цвет&0 накачивает кристаллы маной напрямую, благодаря чему они растут и разрастаются значительно быстрее.
+botania.page.primal_bloom1=&oУскоритель аспектов&r
+
+# -- TAINTTHISTLE
+botania.entry.taintthistle=Порчеполох
+botania.tagline.taintthistle=Уничтожает зараженные материалы
+botania.page.taintthistle0=Настоящий друг для менее дотошного тауматурга: &1Порчеполох&0 способен убрать последствия любых случайных аномалий порчи.<br>Получая &4Ману&0, &1Порчеполох&0 находит и уничтожает любые близлежащие зараженные блоки или слизь порчи.
+botania.page.taintthistle1=&oДревний Чудо-очиститель&r
+
+# -- WHISPERWEED
+botania.entry.whisperweed_cm=Шепчущий сорняк
+botania.tagline.whisperweed_cm=Знания из мозгов
+botania.page.whisperweed_cm0=&1Шепчущий сорняк&0 — уникальный цветок со специфическим аппетитом.<br>Он поглощает лежащие рядом &1мозги зомби&0 и сохраняет часть знаний их бывшего владельца. Если &4Маны&0 недостаточно, мозг сгорит без получения знаний.<br>Накопив достаточно знаний, начинающие
+botania.page.whisperweed_cm1=тауматурги могут взаимодействовать с цветком, чтобы получить их. Но будьте осторожны: иногда эти знания приносят немного &1Искажения&0.<br>Текущий объем накопленных знаний можно увидеть, наведя на &1Шепчущий сорняк&0 &1Посох леса&0.
+botania.page.whisperweed_cm2=&oЦветочный Ван Ши Тонг&r
