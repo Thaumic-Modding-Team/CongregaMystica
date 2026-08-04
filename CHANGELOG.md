@@ -1,5 +1,10 @@
 # Changelog Congrega Mystica
-## 1.1.2
+## 1.1.3
+### Added
+- Added `ru_ru.lang` courtesy of leskovetz
+
+---
+## 1.1.2	
 ### Fixed
 - Fixed all caster's gauntlets added by Congrega Mystica being unable to select blocks for Focus Effect: Exchange
 ### Removed
