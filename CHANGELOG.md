@@ -2,6 +2,9 @@
 ## 1.1.3
 ### Added
 - Added `ru_ru.lang` courtesy of leskovetz
+### Fixed
+- Fixed Mimic Fork being accessible before the Arcane Ear is researched
+- Fixed Ethereal Mimic Fork being accessible before Infusion is researched
 
 ---
 ## 1.1.2	
